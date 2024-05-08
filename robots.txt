@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:/Slike/
+
+sitemap: https://github.com/firebird987/Pekara-Hajtic/blob/main/sitemap.xml
